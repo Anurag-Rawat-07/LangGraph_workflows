@@ -7,3 +7,4 @@ venv/
 9_chatbot/.env
 10_tools/.env
 11_RAG/.env
+13_HITL/.env
